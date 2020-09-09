@@ -1,7 +1,7 @@
-<h2> Hey there! I'm Vladislav Mager.</h2>
-<h3> FullStack JavaScript Developer </h3>
+## Hey there! I'm Vladislav Mager.
+### FullStack JavaScript Developer
 
-<h3>👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me
 
 - 🤔 &nbsp; Mobile and web interface developer, design systems developer.
 - 🎓 &nbsp; Self-education.
@@ -11,7 +11,7 @@
 - 🎸 &nbsp; Playing guitar.
 - 🗺 &nbsp; I dream of starting to travel the world with a laptop.
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
 - 💻 &nbsp; JavaScript | TypeScript | Python
 - 🌐 &nbsp; React.js | Vue.js | Nuxt.js | Node.js | GraphQL | React Native
@@ -23,7 +23,7 @@
 
 [![magersoft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magersoft&show_icons=true)](https://github.com/magersoft)
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 🤝🏻 Connect with Me
 
 [![Email URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Amagervlad%40yandex.ru)](mailto:magervlad@yandex.ru)
 [![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fmagersoft)](https://t.me/magersoft)
@@ -33,5 +33,5 @@
 
 ---
 
-<h4> ✨ Visitors </h4>
+### ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/magersoft/magersoft.svg)](https://github.com/magersoft/)
