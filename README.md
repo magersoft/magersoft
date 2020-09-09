@@ -34,4 +34,4 @@
 ---
 
 <h4> ✨ Visitors </h4>
-[![ViewCount](https://views.whatilearened.today/views/github/magersoft/magersoft.svg?cache=remove)](#)
+[![ViewCount](https://views.whatilearened.today/views/github/magersoft/magersoft.svg)](https://github.com/magersoft/)
