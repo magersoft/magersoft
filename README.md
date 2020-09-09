@@ -29,7 +29,7 @@
 [![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fmagersoft)](https://t.me/magersoft)
 [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladislav-mager-74231a198)](https://linkedin.com/in/vladislav-mager-74231a198)
 [![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fmagersoft)](https://instagram.com/magersoft)
-[![Steam URL](https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fmagesoft)](https://steamcommunity.com/id/ismlhbb)
+[![Steam URL](https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fmagesoft)](https://steamcommunity.com/id/magersoft)
 
 ---
 
