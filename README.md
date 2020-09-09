@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2> Hey there! I'm Vladislav Mager.</h2>
+<h3> FullStack JavaScript Developer </h3>
 
-<!--
-**magersoft/magersoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Mobile and web interface developer, design systems developer.
+- 🎓 &nbsp; Self-education.
+- 💼 &nbsp; Working as a JavaScript developer at B2B-Center.
+- 🌱 &nbsp; Learning more about Systems Design, Architecture Design and Artificial Intelligence.
+- 🎮 &nbsp; Participant of CS:GO esports tournaments.
+- 🎸 &nbsp; Playing guitar.
+- 🗺 &nbsp; I dream of starting to travel the world with a laptop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JavaScript | TypeScript | Python
+- 🌐 &nbsp; React.js | Vue.js | Nuxt.js | Node.js | GraphQL | React Native
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma
+- 🔧 &nbsp; Git | Markdown | Puppetter | Docker
+- 🖥 &nbsp; Figma | Photoshop
+
+<br/>
+
+[![magersoft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magersoft&show_icons=true)](https://github.com/magersoft)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+[![Email URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Amagervlad%40yandex.ru)](mailto:magervlad@yandex.ru)
+[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fmagersoft)](https://t.me/magersoft)
+[![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladislav-mager-74231a198)](https://linkedin.com/in/vladislav-mager-74231a198)
+[![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fmagersoft)](https://instagram.com/magersoft)
+[![Steam URL](https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fmagesoft)](https://steamcommunity.com/id/ismlhbb)
+
+<h4> ✨ Visitors </h4>
+[![ViewCount](https://views.whatilearened.today/views/github/magersoft/magersoft.svg?cache=remove)](#)
+---
