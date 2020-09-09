@@ -16,7 +16,7 @@
 - 💻 &nbsp; JavaScript | TypeScript | Python
 - 🌐 &nbsp; React.js | Vue.js | Nuxt.js | Node.js | GraphQL | React Native
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma
-- 🔧 &nbsp; Git | Markdown | Puppetter | Docker
+- 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker
 - 🖥 &nbsp; Figma | Photoshop
 
 <br/>
