@@ -1,5 +1,5 @@
 ## Hey there! I'm Vladislav Mager.
-### FullStack JavaScript Developer
+### Senior JavaScript Developer
 
 ### 👨🏻‍💻 About Me
 
@@ -13,11 +13,11 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; JavaScript | TypeScript | Python
+- 💻 &nbsp; JavaScript | TypeScript | Python | PHP
 - 🌐 &nbsp; Vue.js | Nuxt.js | React.js | Node.js | Nest.js | GraphQL | React Native
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma.io
 - 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker
-- 🖥 &nbsp; Figma | Photoshop
+- 🖥 &nbsp; Figma | Sketch | Zeplin
 
 <br/>
 
