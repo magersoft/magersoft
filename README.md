@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; Mobile and web interface developer, design systems developer.
+- 🤔 &nbsp; Mobile and web interface developer, [design systems](https://cds.b2b-center.ru/) developer.
 - 🎓 &nbsp; Self-education.
 - 💼 &nbsp; Working as a JavaScript developer at B2B-Center.
 - 🌱 &nbsp; Learning more about Systems Design, Architecture Design and Artificial Intelligence.
