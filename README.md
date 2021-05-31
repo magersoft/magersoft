@@ -37,5 +37,4 @@
 [![ViewCount](https://views.whatilearened.today/views/github/magersoft/magersoft.svg)](https://github.com/magersoft/)
 
 ### Time activity
-https://wakatime.com/@magersoft
 [![WakaTime](https://img.shields.io/badge/waka-activity-lightgrey)](https://wakatime.com/@magersoft)
