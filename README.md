@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; Mobile and web interface developer, [design systems](https://cds.b2b-center.ru/) developer.
+- 🤔 &nbsp; Backend and Frontend developer, [design systems](https://cds.b2b-center.ru/) developer.
 - 🎓 &nbsp; Self-education.
 - 💼 &nbsp; Working as a JavaScript developer at B2B-Center.
 - 🌱 &nbsp; Learning more about Systems Design, Architecture Design and Artificial Intelligence.
@@ -13,8 +13,8 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; JavaScript | TypeScript | Python | PHP
-- 🌐 &nbsp; Vue.js | Nuxt.js | React.js | Node.js | Nest.js | GraphQL | React Native
+- 💻 &nbsp; JavaScript | TypeScript | Python
+- 🌐 &nbsp; Nest.js | Nuxt.js | Vue.js | React.js | Node.js | GraphQL
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma.io
 - 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker
 - 🖥 &nbsp; Figma | Sketch | Zeplin
@@ -35,3 +35,7 @@
 
 ### ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/magersoft/magersoft.svg)](https://github.com/magersoft/)
+
+### Time activity
+https://wakatime.com/@magersoft
+[![WakaTime](https://img.shields.io/badge/waka-activity-lightgrey)](https://wakatime.com/@magersoft)
