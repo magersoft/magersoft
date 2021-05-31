@@ -21,7 +21,7 @@
 
 <br/>
 
-[![magersoft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magersoft&show_icons=true&theme=radical)(https://github.com/magersoft)
+[![magersoft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magersoft&show_icons=true&theme=radical)](https://github.com/magersoft)
 
 ### 🤝🏻 Connect with Me
 
