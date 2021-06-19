@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about Systems Design, Architecture Design and Artificial Intelligence.
 - 🎮 &nbsp; Participant of CS:GO esports tournaments.
 - 🎸 &nbsp; Playing guitar.
-- 🗺 &nbsp; I dream of starting to travel the world with a laptop.
+- 🗺 &nbsp; I am Digital Nomad.
 
 ### 🛠 Tech Stack
 
