@@ -13,10 +13,10 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; JavaScript | TypeScript | Python
-- 🌐 &nbsp; Nest.js | Nuxt.js | Vue.js | React.js | Node.js | GraphQL
+- 💻 &nbsp; JavaScript | TypeScript
+- 🌐 &nbsp; Nest.js ❤️ | Quasar ❤️ | Nuxt.js | Vue.js | React.js | React Native | Node.js | GraphQL | Socket.io
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma.io
-- 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker
+- 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker | Kubernetes
 - 🖥 &nbsp; Figma | Sketch | Zeplin
 
 <br/>
