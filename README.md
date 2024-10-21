@@ -14,12 +14,18 @@
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; JavaScript | TypeScript
-- 🌐 &nbsp; Nest.js ❤️ | Quasar ❤️ | Nuxt.js | Vue.js | React.js | React Native | Node.js | GraphQL | Socket.io
+- 🌐 &nbsp; Vue.js 2/3 ❤️ | Quasar ❤️ | Nuxt.js | React.js | Nest.js | Node.js | GraphQL | Socket.io
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma.io
 - 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker | Kubernetes
 - 🖥 &nbsp; Figma | Sketch | Zeplin
 
 <br/>
+
+✈️ Traveling is not just my hobby but a source of inspiration that brings a fresh perspective on life and work. I firmly believe that traveling broadens horizons and enriches experiences, which, in turn, contributes to better productivity at work and in no way hinders it.
+Work-life balance at its finest!
+
+My list of countries keeps growing each year:
+🇷🇺🇬🇷🇩🇪🇪🇬🇦🇪🇲🇻🇮🇩🇲🇾🇺🇿🇹🇷🇪🇸🇫🇷🇧🇪🇨🇭🇮🇹🇻🇦🇷🇸🇦🇲🇬🇪🇰🇿🇰🇬🇺🇲🇨🇴
 
 [![magersoft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magersoft&show_icons=true&theme=radical)](https://github.com/magersoft)
 
