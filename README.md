@@ -16,6 +16,8 @@
 - 💻 &nbsp; JavaScript | TypeScript
 - 🌐 &nbsp; Vue.js 2/3 ❤️ | Quasar ❤️ | Nuxt.js | React.js | Nest.js | Node.js | GraphQL | Socket.io
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma.io
+- 🏗️ Architectures - DDD | FSD | MVP | MVC | MVVM | CQRS
+- 🛠 Patterns - DRY | KISS | SOLID
 - 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker | Kubernetes
 - 🖥 &nbsp; Figma | Sketch | Zeplin
 
