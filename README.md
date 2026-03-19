@@ -1,25 +1,24 @@
 ## Hey there! I'm Vladislav Mager.
-### Senior JavaScript Developer
+### Senior Fullstack Developer / Lead Fullstack Engineer
 
 ### 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; Backend and Frontend developer, [design systems](https://cds.b2b-center.ru/) developer.
-- 🎓 &nbsp; Self-education.
-- 💼 &nbsp; Working as a JavaScript developer at B2B-Center.
-- 🌱 &nbsp; Learning more about Systems Design, Architecture Design and Artificial Intelligence.
-- 🎮 &nbsp; Participant of CS:GO esports tournaments.
-- 🎸 &nbsp; Playing guitar.
-- 🗺 &nbsp; I am Digital Nomad.
+- 🤔 &nbsp; Fullstack developer with 11+ years of experience. Passionate about frontend infrastructure, design systems and developer tooling.
+- 💼 &nbsp; Frontend Lead at B2B-Center. Built [Central Design System](https://cds.b2b-center.ru/) from scratch - now used by all frontend teams in the company.
+- 🌱 &nbsp; Growing towards Software Architect. Exploring Systems Design, AI integration and automation.
+- 🤖 &nbsp; Using AI tools in daily work - Claude Code, GitHub Copilot, Cursor. Believe in smart and rational use of AI.
+- 🗺 &nbsp; Digital Nomad. Based in Portugal.
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; JavaScript | TypeScript
-- 🌐 &nbsp; Vue.js 2/3 ❤️ | Quasar ❤️ | Nuxt.js | React.js | Nest.js | Node.js | GraphQL | Socket.io
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Prisma.io
-- 🏗️ &nbsp; Architectures - DDD | FSD | MVP | MVC | MVVM | CQRS
-- 🛠 &nbsp; Patterns - DRY | KISS | SOLID
-- 🔧 &nbsp; Git | Jira | Confluence | Markdown | Puppetter | Docker | Kubernetes
-- 🖥 &nbsp; Figma | Sketch | Zeplin
+- 💻 &nbsp; TypeScript | JavaScript
+- 🌐 &nbsp; Vue.js 2/3 ❤️ | Nuxt.js ❤️ | Nest.js | Node.js | React.js | Quasar | Socket.io
+- 🎨 &nbsp; Design Systems | Storybook | Atomic Design | shadcn/ui | Vuetify | Tailwind | MUI
+- 🛢 &nbsp; PostgreSQL | MySQL | MongoDB | Redis | RabbitMQ
+- 🏗️ &nbsp; DDD | BFF | Microfrontends | SSR | SPA | MVC | MVVM | CQRS
+- 🛠 &nbsp; SOLID | DRY | KISS
+- 🔧 &nbsp; Git | Docker | Kubernetes | CI/CD | Jest | Cypress | Playwright
+- 🖥 &nbsp; Figma | Jira | Confluence
 
 <br/>
 
@@ -27,7 +26,7 @@
 
 ### 🤝🏻 Connect with Me
 
-[![Email URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Amagervlad%40yandex.ru)](mailto:magervlad@yandex.ru)
+[![Email URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Amagervlad%40yandex.ru)](mailto:magersoft@yahoo.com)
 [![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fmagersoft)](https://t.me/magersoft)
 [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladislav-mager-74231a198)](https://www.linkedin.com/in/magersoft/)
 [![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fmagersoft)](https://instagram.com/magersoft)
