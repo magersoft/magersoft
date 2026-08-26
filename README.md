@@ -95,8 +95,6 @@
 
 [![GitHub Stats](https://github-readme-stats-omega-one-31.vercel.app/api?username=magersoft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/magersoft)
 
-[![Top Languages](https://github-readme-stats-omega-one-31.vercel.app/api/top-langs/?username=magersoft&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/magersoft)
-
 [![wakatime](https://wakatime.com/badge/user/15e7920f-fcf6-449a-82fc-d048f2adebf7.svg)](https://wakatime.com/@15e7920f-fcf6-449a-82fc-d048f2adebf7)
 
 *⌨️ Actual time spent writing code — tracked by WakaTime*
