@@ -43,8 +43,8 @@
 
 #### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue_3-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -89,14 +89,13 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
 
-## 📊 GitHub Stats
+## 📊 At a Glance
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magersoft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/magersoft)
-[![GitHub Streak](https://streak-stats.demolab.com?user=magersoft&theme=tokyonight&hide_border=true&background=00000000)](https://github.com/magersoft)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magersoft&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/magersoft)
+![Experience](https://img.shields.io/badge/Experience-12%2B_years-42B883?style=for-the-badge)
+![Design System](https://img.shields.io/badge/Design_System-built_from_scratch-7B61FF?style=for-the-badge)
+![Teams](https://img.shields.io/badge/Frontend_Lead-B2B--Center-1E293B?style=for-the-badge)
 
 [![wakatime](https://wakatime.com/badge/user/15e7920f-fcf6-449a-82fc-d048f2adebf7.svg)](https://wakatime.com/@15e7920f-fcf6-449a-82fc-d048f2adebf7)
 
